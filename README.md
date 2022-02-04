@@ -1,2 +1,2 @@
 # Proyecto App Weather - Bootstrap, Sass y JS
-![Diseño](./design/appweatherdesign.jpg)
+![Diseño](./design/appweather-design.jpg)
