@@ -11,7 +11,7 @@ const salida_datos = document.querySelector('.salida_datos');
 
 // Eventos
 
-window.addEventListener('DOMContentLoaded', consultarAPI("Kelly"));
+window.addEventListener('DOMContentLoaded', consultarAPI("Santander"));
 form.addEventListener('submit', buscarClima);
 
 // Buscar clima
